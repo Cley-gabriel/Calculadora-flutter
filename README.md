@@ -1,16 +1,57 @@
-# calculadora_ios
+# Calculadora em Dart e Flutter 
+##  calculadora_ios 
+<br>
 
-A new Flutter project.
 
-## Getting Started
+## Essa é uma simples calculadora desenvolvida em Dart e Flutter. A aplicação permite a realização de operações básicas de matemática como adição, subtração, multiplicação e divisão.
 
-This project is a starting point for a Flutter application.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
+    Adição
+    Subtração 
+    Multiplicação
+    Divisão
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Como executar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### executar essa aplicação, é necessário ter o ambiente de desenvolvimento Dart e Flutter configurado na sua máquina.
+
+<br>
+
+### 1. Clone o repositório para a sua máquina local usando o seguinte comando:
+    git clone https://github.com/Cley-gabriel/Calculadora-flutter.git
+
+### 2. Acesse a pasta do projeto:
+    cd calculadora-flutter
+
+### 3. Instale as dependências do projeto:
+    flutter pub get
+
+### 4. Execute a aplicação:
+    flutter run
+
+## Como usar
+### Ao executar a aplicação, a calculadora será aberta na tela. Basta inserir os números desejados e selecionar a operação que deseja realizar.
+
+### Tecnologia: 
+
+<div style = "display: inline_block"><br/> 
+  <img align="center" alt="python" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</div><br/>
+
+## Versão das ferramentas
+<p>
+Flutter (Channel stable, 3.7.3, on Microsoft Windows   versão 10.0.19045.28461, locale pt-BR)
+Windows(version 10)
+<br>
+Android Studio (version 2022.1)
+<br>
+VS Code (version 1.77.3)
+<br>
+Java version OpenDK Runtime Environment Temurin-17.0.6+10 (build 17.0.6+10)
+Platform android-33-ext5, build-tools 33.0.2
+<br>
+Flutter extension version 3.62.0
+</p>
